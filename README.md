@@ -17,6 +17,8 @@ src="https://img.shields.io/twitter/follow/iam_victorsam?logo=twitter&style=for-
 /></a><a href="https://www.github.com/iamvictorsam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/iamvictorsam?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" /></a>
 
+![Visitor Count](https://profile-counter.glitch.me/iamvictorsam/count.svg)
+
 ### Skills
 
 <p align="left">

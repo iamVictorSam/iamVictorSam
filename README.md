@@ -8,9 +8,9 @@ I'm a Full-stack Blockchain, mobile and web developer with languages like Solidi
 
 * 🌍  I'm based in PortHarcourt Nigeria
 * ✉️  You can contact me at [iamvictorsam@gmail.com](mailto:iamvictorsam@gmail.com)
-* 🧠  I'm learning React-Typescript, Vue, Vue-Typescript, NestJs and Rust
-* 🤝  I'm open to collaborating on Flutter Projects, Frontend Projects and Technical Content
-* ⚡  I'm a weeb..
+* 🧠  I'm learning React-Typescript, Vue, Vue-Typescript, NestJs, and Rust
+* 🤝  I'm open to collaborating on Flutter Projects, Frontend Projects, and Technical Content
+* ⚡  I'm the Flash ⚡️...
 
 <a href="https://www.twitter.com/iam_victorsam" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/iam_victorsam?logo=twitter&style=for-the-badge&color=22c55e&labelColor=000000"

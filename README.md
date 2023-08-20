@@ -67,7 +67,7 @@ src="https://img.shields.io/github/followers/iamvictorsam?logo=github&style=for-
 
 <a href="http://www.github.com/iamvictorsam"><img src="https://github-readme-streak-stats.herokuapp.com/?user=iamvictorsam&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Sam Victor's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=iamvictorsam&theme=github-compact)](https://github.com/iamvictorsam/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamvictorsam&bg_color=000000&color=5aaa6a&line=33652f&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a href="https://github.com/iamvictorsam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamvictorsam&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
